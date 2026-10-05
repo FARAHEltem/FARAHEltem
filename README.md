@@ -1,60 +1,89 @@
-<h1 align="center">Salut, moi c'est Farahe 👋</h1>
-<p align="center"><b>Développeuse full-stack</b> · Java · TypeScript · Mobile</p>
+<h1 align="center">Farahe El-Montaser</h1>
+
+<p align="center">
+  <b>Étudiante M2 Web Intelligence & Data Science</b> · USMBA (Fès) × Université Sorbonne Paris Nord
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/farahe-el-montaser-30a422368"><img src="https://img.shields.io/badge/LinkedIn-Farahe_El--Montaser-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/📍_Fès,_Maroc-555555?style=for-the-badge" alt="Fès, Maroc"/>
+</p>
+
+> 🎯 **En recherche d'un stage de fin d'études de 6 mois, à partir de février 2027**, en **Data Science / Machine Learning**, **Data Engineering** ou **Data Analyse / BI**.
 
 ---
 
 ### 🙋‍♀️ À propos
 
-- 💻 Je construis des applications **web, mobile et backend**, du serveur jusqu'à l'interface.
-- 🌱 J'aime les projets concrets : réseau social mobile, traducteur darija par IA, outils de conversion de données…
-- 🇲🇦 Basée au Maroc · Français · Anglais · Arabe / Darija
-- 📫 Contact : *(ajoutez ici votre LinkedIn ou votre email)*
+- 🎓 Master 2 **Web Intelligence & Data Science (WISD)** à l'USMBA, en **double diplôme** avec le Master Informatique **EID2** (Exploration Informatique des Données et Décisionnel) de l'Université Sorbonne Paris Nord.
+- 📊 J'aime transformer des données brutes en **indicateurs clairs** et en **modèles interprétables** : statistiques multidimensionnelles, classification, et aujourd'hui **LLM et RAG** appliqués aux documents.
+- 💼 Stage à la DSI d'**EUMF** (Fès) : digitalisation complète d'un processus d'achats, avec **génération automatique de documents et de rapports** (Laravel, PL/SQL).
+- 🌍 Arabe (langue maternelle) · Français (courant) · Anglais (courant)
+
+---
+
+### 🚀 Projets Data & IA
+
+| Projet | Ce que j'ai fait | Stack |
+|---|---|---|
+| 🏦 **[rag-contrats-bancaires](https://github.com/farahe-elmontaser/rag-contrats-bancaires)** | Assistant **RAG 100 % local** qui répond aux questions sur 30 contrats de crédit et extrait leurs informations clés en JSON, en citant ses sources. **15/15** sur le jeu d'évaluation. | Python · Ollama (Qwen 2.5) · ChromaDB · FastAPI · Streamlit |
+| 😴 **[sleep-quality-classification](https://github.com/farahe-elmontaser/sleep-quality-classification)** | Analyse exploratoire et **comparaison de 3 modèles** (régression logistique, Random Forest, SVM) pour prédire la qualité du sommeil, avec interprétation par odds ratios et courbes ROC. | Python (scikit-learn) · R (caret, pROC) |
+| 📄 **ETICS** *(en cours, M2 EID2)* | Détection de la toxicité et des clauses abusives dans des contrats (banques, assurances, bailleurs, hôpitaux) : extraction de documents non structurés vers une base structurée, puis classification par **LLM**. | Python · LLM · NLP |
+
+### 🧩 Autres projets
+
+| Projet | Description | Stack |
+|---|---|---|
+| 🔄 **[XML-JSON-Converter-Java](https://github.com/farahe-elmontaser/XML-JSON-Converter-Java)** | Convertisseur XML ⇄ JSON avec **parseur récursif** écrit à la main et validation syntaxique | Java 17 · JavaFX · Maven · Jackson |
+| 🇲🇦 **[darija-translator](https://github.com/farahe-elmontaser/darija-translator)** | Traduction anglais → darija par **LLM (Gemini)**, extension Chrome avec reconnaissance vocale et service REST | Java JAX-RS · JavaScript · Gemini API |
+| 📱 **[social-media-app](https://github.com/farahe-elmontaser/social-media-app)** | Réseau social mobile complet : posts, stories, chat et notifications en temps réel | React Native · NestJS · PostgreSQL |
 
 ---
 
 ### 🛠️ Compétences
 
-**Langages**
+**Data science & machine learning**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-**Frameworks & bibliothèques**
+Régression logistique · Random Forest · SVM · courbes ROC / AUC · statistiques multidimensionnelles · data mining
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
-![Jakarta EE](https://img.shields.io/badge/Jakarta_EE_(JAX--RS)-F8981D?style=for-the-badge&logo=eclipse&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+**LLM & NLP**
 
-**Bases de données & outils**
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+RAG · embeddings · recherche sémantique · extraction d'information
+
+**Bases de données & BI**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel_VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+Modélisation relationnelle · data warehouse · reporting automatisé
+
+**Développement & outils**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-### 🚀 Projets phares
+### 🎓 Formation
 
-| Projet | Description | Stack |
-|---|---|---|
-| 📱 **[social-media-app](https://github.com/FARAHEltem/social-media-app)** | Réseau social mobile complet façon Instagram : posts, reels, stories, chat et notifications en temps réel | React Native · Expo · NestJS · PostgreSQL · Socket.IO |
-| 🇲🇦 **[darija-translator](https://github.com/FARAHEltem/darija-translator)** | Extension Chrome de traduction anglais → darija avec reconnaissance vocale et synthèse audio, propulsée par Gemini | Chrome MV3 · Java JAX-RS · Gemini API · PHP |
-| 🔄 **[XML-JSON-Converter-Java](https://github.com/FARAHEltem/XML-JSON-Converter-Java)** | Convertisseur XML ⇄ JSON avec parseur récursif écrit à la main, comparé à Jackson | Java · JavaFX · Maven |
-
----
-
-### 📊 Statistiques
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=FARAHEltem&show_icons=true&hide_border=true" alt="Stats GitHub" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FARAHEltem&layout=compact&hide_border=true" alt="Langages" />
-</p>
+- **2025 – 2027** · Master Web Intelligence & Data Science, USMBA Fès — double diplôme avec le Master Informatique EID2, Université Sorbonne Paris Nord
+- **2024 – 2025** · Licence Sciences et Techniques, Génie Informatique, FST Fès — *mention Bien*
+- 📜 Certification : *Data Mining with Python Workshop* — FST Fès / University of Limerick (2025)
