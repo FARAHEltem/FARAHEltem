@@ -28,7 +28,7 @@
 |---|---|---|
 | 🏦 **[rag-contrats-bancaires](https://github.com/farahe-elmontaser/rag-contrats-bancaires)** | Assistant **RAG 100 % local** qui répond aux questions sur 30 contrats de crédit et extrait leurs informations clés en JSON, en citant ses sources. **15/15** sur le jeu d'évaluation. | Python · Ollama (Qwen 2.5) · ChromaDB · FastAPI · Streamlit |
 | 😴 **[sleep-quality-classification](https://github.com/farahe-elmontaser/sleep-quality-classification)** | Analyse exploratoire et **comparaison de 3 modèles** (régression logistique, Random Forest, SVM) pour prédire la qualité du sommeil, avec interprétation par odds ratios et courbes ROC. | Python (scikit-learn) · R (caret, pROC) |
-| 📄 **ETICS** *(en cours, M2 EID2)* | Détection de la toxicité et des clauses abusives dans des contrats (banques, assurances, bailleurs, hôpitaux) : extraction de documents non structurés vers une base structurée, puis classification par **LLM**. | Python · LLM · NLP |
+| 📄 **[etics](https://github.com/farahe-elmontaser/etics)** *( M2 EID2)*| Détection de la toxicité et des clauses abusives dans des contrats (banques, assurances, bailleurs, hôpitaux) : extraction de documents non structurés vers une base structurée, puis classification par **LLM**. | Python · LLM · NLP |
 
 ### 🧩 Autres projets
 
